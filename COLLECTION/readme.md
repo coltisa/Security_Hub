@@ -110,15 +110,13 @@ Enumeration Sub Domain 子域名扫描工具
 
 ## Netsparker
 
-设置内部代理：[Netsparker Standard 内部代理_「Netsparker Standard 中文汉化使用教程」 - 网安](https://www.wangan.com/docs/625)
+设置内部代理：[Netsparker Standard 内部代理_
 
-
+「Netsparker Standard 中文汉化使用教程」 - 网安](https://www.wangan.com/docs/625)
 
 可以进行动态登录扫描，需要以管理员身份运行
 
 [Netsparker Standard 教程](https://www.wangan.com/docs/628)
-
-
 
 
 
